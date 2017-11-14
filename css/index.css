@@ -1,0 +1,14 @@
+#map .ui-content {
+  position: absolute;
+  top: 42px;
+  bottom: 56px;
+  left: 0;
+  right: 0;
+  padding: 0;
+}
+
+
+#mapdiv {
+    width: 100%;
+    height: 100%;
+}
